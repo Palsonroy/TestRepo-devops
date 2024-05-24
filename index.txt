@@ -1,1 +1,3 @@
 Hai here for practice devOps
+
+i learned how to push the code into git 
